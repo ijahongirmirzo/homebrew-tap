@@ -1,6 +1,6 @@
 cask "pulli" do
-  version "0.4.0"
-  sha256 "45c37062493b1884f629d18b666c8beedf3f8f7d3c910c585d9915bec7ad3e91"
+  version "0.4.1"
+  sha256 "c384770ea057ddc54f0a8659c91da176c7e1bcab409a306de5c04da097b89bf1"
 
   url "https://github.com/ijahongirmirzo/pulli/releases/download/v#{version}/Pulli-#{version}.dmg"
   name "Pulli"
