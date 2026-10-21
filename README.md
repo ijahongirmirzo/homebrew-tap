@@ -1,6 +1,6 @@
 # Homebrew tap
 
-Homebrew casks by Jakhongirmirzo Ibrokhimov.
+Homebrew casks by Jahongirmirzo.
 
 ```bash
 brew install --cask ijahongirmirzo/tap/pulli
